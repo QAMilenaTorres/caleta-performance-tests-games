@@ -61,6 +61,6 @@ Este documento apresenta exemplos de testes de performance aplicados aos jogos d
 ---
 
 ## Observações Gerais
-- Todas as métricas são **fictícias, porém realistas**, baseadas em cenários de teste de performance em jogos online.
-- Permite treinar interpretação de **Throughput, Response Time e Error %**.
-- Mostra habilidade de **identificar gargalos e propor soluções**, importante para entrevistas de QA de performance.
+- Todas as métricas são **Baseadas em métricas reais**, aplicadas em cenários de teste de performance em jogos web.
+- Demonstrações de **Vazão, Tempo de resposta e % de Erro**.
+- Resolução de **gargalos e problemas** recorrentes de **Tempo de resposta, Porcentagem de erro e Vazão**.
